@@ -1,0 +1,9 @@
+Building BixCoin
+
+See doc/readme-qt.rst for instructions on building BixCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BixCoin.
+
+See doc/build-*.txt for instructions on building bixcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BixCoin.
